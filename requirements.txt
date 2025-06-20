@@ -1,6 +1,4 @@
 streamlit
-pandas
-openpyxl
 altair
 
 # Dòng dưới đây để cài đặt thư viện logic riêng tư từ GitHub
