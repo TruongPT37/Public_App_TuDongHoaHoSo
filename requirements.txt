@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+altair
+
+# Dòng dưới đây để cài đặt thư viện logic riêng tư từ GitHub
+# SỬA "YOUR_GITHUB_USERNAME" và "YOUR_PRIVATE_REPO_NAME" ở Giai đoạn 3
+my_core_logic @ git+https://oauth2:${GITHUB_PAT}@github.com/TruongPT37/Core_App_TuDongHoaHoSo.git
